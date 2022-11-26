@@ -3,4 +3,4 @@
 # File structure
 Created SmartAccountContext and SocialLoginContext similar to Biconomy example SDK.
 
-In the header.js, we are calling the connect function from SocialLoginContext. 
+In the Header.js, we are calling the connect or disconnect functions from web3AuthContext present in SocialLoginContext file. 
